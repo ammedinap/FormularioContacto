@@ -1,0 +1,7 @@
+Hola, felicidades por el buen trabajo,
+creo que no escogistes el View adecuado para la pantalla de Confirmar datos,
+segun el mockup y la funcion de esta pantalla no deben mostrarse en esa pantalla los datos en EditText
+sino en TextView.
+Otra recomendación: el texto de los hint añadelos a @strings por los beneficios que ya hemos
+visto en clases.
+Saludos y que Dios te bendiga
